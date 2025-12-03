@@ -79,7 +79,7 @@ server <- function(input, output, session) {
     hist(
       dat$net_income,
       breaks = 30,
-      main   = "Distribution of net income",
+      main   = "Net Income Distribution Across Taxpayers",
       xlab   = "Net income",
       col    = "darkgray",
       border = "white"
