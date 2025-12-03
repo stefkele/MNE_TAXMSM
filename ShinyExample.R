@@ -5,6 +5,7 @@
 " Participant name:  "
 library(shiny)
 library(data.table)
+options(scipen=999)
 
 # test 
 
